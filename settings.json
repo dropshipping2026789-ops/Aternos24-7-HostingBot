@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Survivaltypshi.aternos.me",
-    "port": 20358,
+    "port": "20358",
     "version": "1.21.11",
     "try-creative": false
   },
